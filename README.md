@@ -1,7 +1,5 @@
 # DH140-Final
 
-# DH140-Final
-
 **Description**
 
 As I am approaching the end of my senior year and about to graduate, this topic has been on my mind more frequently. I also find this to be a topic of discussion amongst most of my conversations. These are all factors that I consider on the job hunt, so researching more about this can allow me to have more insight on my post-grad options and how much weight my college career has on my future.
