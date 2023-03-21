@@ -17,4 +17,4 @@ This research will explore the various factors that affect salary after graduati
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashleyalee/DH140-Final/HEAD)
 
-[Read more on the blog] (https://ashleyalee.github.io/ashleysblog/posts/dh-140-final-AL.html)
+Read more on the blog: https://ashleyalee.github.io/ashleysblog/posts/dh-140-final-AL.html
